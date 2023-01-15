@@ -78,6 +78,7 @@ Minor usage of other technologies used in the project:
 *   YAML
 
 ** Project's Screenshots **
+
 <img src="https://user-images.githubusercontent.com/47497598/212535262-8767c7a6-8eb5-4830-903e-51176cae06a7.png" alt="project-screenshot" width="500"/>
 
 <img src="https://user-images.githubusercontent.com/47497598/212535280-cddfb892-0d25-4f03-af70-15c02a187da8.png" alt="project-screenshot" width="500" />
