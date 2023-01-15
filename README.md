@@ -102,13 +102,13 @@ _________________________________
 
 ** Project Screenshots **
 
-<img src="https://user-images.githubusercontent.com/47497598/212538436-840433e6-69c4-4395-bec2-49b481facce4.png" alt="project-screenshot" width="500" height="400/">
+<img src="https://user-images.githubusercontent.com/47497598/212538436-840433e6-69c4-4395-bec2-49b481facce4.png" alt="project-screenshot" width="500" />
 
-<img src="https://user-images.githubusercontent.com/47497598/212538464-5c04e6a9-bee7-4772-8fc4-d4b1d696d3db.png" alt="project-screenshot" width="500" height="400/">
+<img src="https://user-images.githubusercontent.com/47497598/212538464-5c04e6a9-bee7-4772-8fc4-d4b1d696d3db.png" alt="project-screenshot" width="500" />
 
-<img src="https://user-images.githubusercontent.com/47497598/212538478-8513e196-11ce-446f-a2b9-6c13f9c6ed79.png" alt="project-screenshot" width="500" height="400/">
+<img src="https://user-images.githubusercontent.com/47497598/212538478-8513e196-11ce-446f-a2b9-6c13f9c6ed79.png" alt="project-screenshot" width="500" />
 
-<img src="https://user-images.githubusercontent.com/47497598/212538493-1f74b16c-2738-46af-b4d5-98eb9af969da.png" alt="project-screenshot" width="500" height="400/">
+<img src="https://user-images.githubusercontent.com/47497598/212538493-1f74b16c-2738-46af-b4d5-98eb9af969da.png" alt="project-screenshot" width="500" />
 
   
   
