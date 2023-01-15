@@ -76,3 +76,15 @@ ________________________
 Minor usage of other technologies used in the project:
 *   PHP
 *   YAML
+
+** Project's Screenshots **
+<img src="https://user-images.githubusercontent.com/47497598/212535262-8767c7a6-8eb5-4830-903e-51176cae06a7.png" alt="project-screenshot" width="500"/>
+
+<img src="https://user-images.githubusercontent.com/47497598/212535280-cddfb892-0d25-4f03-af70-15c02a187da8.png" alt="project-screenshot" width="500" />
+
+<img src="https://user-images.githubusercontent.com/47497598/212535322-d957861f-d9f1-4ede-b5e8-52197b0ea0f8.png" alt="project-screenshot" width="500" />
+
+<img src="https://user-images.githubusercontent.com/47497598/212535333-1d547b08-37ac-43ea-897d-85e24ea9d8ca.png" alt="project-screenshot" width="500" />
+
+<img src="https://user-images.githubusercontent.com/47497598/212535343-40723149-1d50-4db4-b490-8146fbdf4baf.png" alt="project-screenshot" width="500" />
+
