@@ -24,6 +24,67 @@ My name is Mohamed Ibrahim and I am a full-stack web developer with a wide range
 # 💻 Here are some of my projects
 ________________________________________
 
+_________________________________
+
+## 🚀 Li By Influcracy - [Demo](https://li.influcracy.com)
+
+<p align="center"><img src="https://class-fr.igaimaa.com/images/Logo.png" alt="project-image"></p>
+
+### 🧐 About:
+<p id="description">Li By Influcracy is a web application that connects influencers with brands and advertisers, allowing them to collaborate on sponsored content and promotions. The platform is designed to be user-friendly and easy to navigate, with a simple and intuitive interface that makes it easy for users to find and connect with potential partners.</p>
+
+
+** Project Screenshots **
+
+### Login Screen
+<div>
+<img src="https://user-images.githubusercontent.com/47497598/224520728-e4e9ddf4-ce07-4d21-97c3-084722546f92.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224520820-7f3ecf81-6db6-4dcb-8cf8-e1b1ef18cb94.png" width=140/>
+</div>
+
+### Dashboard Screen
+<div>
+<img src="https://user-images.githubusercontent.com/47497598/224521173-9167bff8-d618-4ce2-8bb4-63ea2f7d50ed.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224521123-d6db06b6-6ac0-4bbd-9080-5d3a5d6a242f.png" width=140/>
+</div>
+
+## Wallet Screen
+<div>
+<img src="https://user-images.githubusercontent.com/47497598/224521344-154a0173-f8d1-4d85-ba4a-b7a880ce0787.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224521373-a2ec01ae-396e-4c54-af94-dea280668b85.png" width=140/>
+</div>
+
+## Create a post using chatgpt Screen
+<div>
+<img src="https://user-images.githubusercontent.com/47497598/224521530-54efc224-e32b-4271-8aab-d4d544378f6b.png" width=600/>
+<img src="https://user-images.githubusercontent.com/47497598/224521579-a43cddc8-eb31-476a-b237-e2363c6a3256.png" width=140/>
+  <img src="https://user-images.githubusercontent.com/47497598/224521582-8d484b9c-12fc-470f-b4c1-3236496cb5c5.png" width=140/>
+  <img src="https://user-images.githubusercontent.com/47497598/224521586-7436d26b-7fdd-44e1-a372-4d45b29a881a.png" width=140/>
+</div>
+  
+  
+** Here are the features: **
+
+Here're some of the project's best features:
+
+* Influencer profiles
+* Brand profiles
+* Sponsored content marketplace
+* Messaging and collaboration tools
+* Advanced analytics and reporting
+* Wallet system and transaction logging
+* Stripe checkout transaction
+* LinkedIn API integration:
+
+  
+  
+### 💻 Technologies Used:
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+
+
+
+
 ## 🚀 Quiz Up App - [Demo](https://mainquizup.netlify.app) - [Demo Video]()
 
 
