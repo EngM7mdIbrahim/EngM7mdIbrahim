@@ -26,9 +26,28 @@ ________________________________________
 
 _________________________________
 
-## 🚀 Li By Influcracy - [Demo](https://li.influcracy.com)
+## 🚀 Know Your Business - [Demo](https://staging.bord.eu/)
 
-<p align="center"><img src="https://class-fr.igaimaa.com/images/Logo.png" alt="project-image"></p>
+### 🧐 About:
+<p id="description">Know your business was a project that Werkdat OU company has provided the Estonian people to know more about their local businesses. This made it easier for the Estonian people to know more about the companies, owners, beneficiaries, representatives, and much more. This helped them to invest more in the stocks when they have known more about the companies that they are investing in. I was from the creators of this project was between the frontend team to develop new pages and UI screens to use and also on the backend team to provide more APIs for serving more data and interact with 3rd party companies such as veriff for user verification.</p>
+
+### Workspace Screen:
+<img width="1728" alt="image" src="https://github.com/EngM7mdIbrahim/EngM7mdIbrahim/assets/47497598/c443bf6e-d00c-44a8-85a2-b4d7b0896049">
+
+### Company Account:
+<img width="1728" alt="image" src="https://github.com/EngM7mdIbrahim/EngM7mdIbrahim/assets/47497598/30224f75-66a6-48b8-881c-285b98f14f81">
+
+### Files Page:
+<img width="1728" alt="image" src="https://github.com/EngM7mdIbrahim/EngM7mdIbrahim/assets/47497598/b21992fa-83ba-4bf2-97d2-8a13b5ff943e">
+
+### Logs Page:
+<img width="1728" alt="image" src="https://github.com/EngM7mdIbrahim/EngM7mdIbrahim/assets/47497598/137e9fed-d6d3-4ce2-90a6-14e6b326f2d8">
+
+### Representatives and Beneficiaries Page:
+<img width="1728" alt="image" src="https://github.com/EngM7mdIbrahim/EngM7mdIbrahim/assets/47497598/9a8115d9-88eb-412b-a715-38a684e29e6e">
+
+
+## 🚀 Li By Influcracy - [Demo](https://li.influcracy.com)
 
 ### 🧐 About:
 <p id="description">Li By Influcracy is a web application that connects influencers with brands and advertisers, allowing them to collaborate on sponsored content and promotions. The platform is designed to be user-friendly and easy to navigate, with a simple and intuitive interface that makes it easy for users to find and connect with potential partners.</p>
